@@ -1,0 +1,3 @@
+2022-06-11 12:19:52.105 +03:00 [INF]  Application  Starting.
+2022-06-11 12:20:11.272 +03:00 [INF] Adding 1 jobs, 1 triggers.
+2022-06-11 12:20:11.275 +03:00 [INF] Adding job: DEFAULT.DroneBatteryLevelQueryJob
